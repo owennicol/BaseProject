@@ -6,6 +6,14 @@ npm install
 
 npm run build (or just 'grunt')
 
-cd dist
+everything compiles/copies to /dist folder
 
-live-server
+> **optional** (if you want a hot reloading http server)
+>
+> npm install -g live-server
+>
+> cd dist
+>
+> live-server
+
+
